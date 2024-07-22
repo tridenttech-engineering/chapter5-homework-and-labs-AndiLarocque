@@ -29,4 +29,9 @@ else
 	}
 
 	cout<<fixed<<setprecision(2);
-	cout<< "Amount owed" << amount_owed;
+	cout<< "Amount owed" <<amount_owed;
+
+	
+
+	return 0;
+}	//end of main function
